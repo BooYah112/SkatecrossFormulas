@@ -8,6 +8,6 @@ Utiliser à partir du template suivant pour démo: https://docs.google.com/sprea
 Création des poules automatiques de qualif selon plusieurs modes
 Création des poules finales, avec tous les arbres (gagnants, perdants, etc), en fonction des points des qualifs
 
---
+---
 Code récupéré et mis sur Github à partir de clasp: https://developers.google.com/apps-script/guides/clasp
 Créé fin 2017.
